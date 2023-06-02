@@ -1,6 +1,9 @@
-# Solidity_Ques
- I am solving the most asked question in Solidity
+## Solidity Smart Contract FAQs
+This repository contains frequently asked questions (FAQs) and their solutions related to Solidity smart contract development. The purpose of this project is to provide answers to common questions and help developers understand and solve common challenges in Solidity programming.
 
-To see the output/running of smart contract 
-->Go to Images Section and see the output according to the number
-eg... 1_Cube -> S1 image
+## Usage
+To find answers to your Solidity-related questions, follow these steps:
+
+Browse the FAQs section in this README file.
+Locate the question that matches your query.
+Read the solution provided in the answer section.
